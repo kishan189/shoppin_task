@@ -1,0 +1,44 @@
+.gogoleSeachContainer{
+    margin: 30px 0px;
+}
+.google{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+.containerSearch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0px;
+}
+.google span{
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.searchBar{
+   display:flex;
+   justify-content: center;
+   align-items: center;
+   border: 1px solid;
+   border-radius: 20px;
+}
+.searchBar input{
+    border: none;
+    outline: none;
+    width: 500px;
+    padding: 15px ;
+    /* background-color: rgba(0, 0, 0, 0.338); */
+      
+}
+.searchBar span{
+    font-size: 23px;
+    padding: 10px;
+}
+
+
+/* .searchIcon{
+    color: blue;
+} */

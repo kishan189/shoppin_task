@@ -1,0 +1,15 @@
+.myButton{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.myButton button{
+    padding:8px 15px;
+    margin-left: 20px;
+}
+
+.languageSection{
+    text-align: center;
+    margin:20px 0px
+}
+

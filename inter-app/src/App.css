@@ -1,0 +1,12 @@
+/* .appContainer{
+  background-color: black;
+  color: white;
+} */
+
+.verticalCenter{
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

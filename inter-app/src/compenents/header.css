@@ -1,0 +1,13 @@
+
+.myheader{
+    display: flex;
+    justify-content: space-between;
+}
+.myheader ul{
+    display: flex
+}
+.myheader ul li{
+    margin-left: 20px;
+    list-style: none;
+    font-size: 22px;
+}
